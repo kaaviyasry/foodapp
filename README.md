@@ -17,7 +17,7 @@ This project includes complete user flow from onboarding to payment confirmation
 - Figma
 
 ## 🎨 UI Preview
-![FoodApp UI Preview](screens/foodapp-ui.png)
+![FoodApp UI Preview](Foodapp.png)
 
 ## 🔗 Prototype Link
 👉 https://l1nq.com/e5bqfqa
