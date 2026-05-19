@@ -20,7 +20,7 @@ This project includes complete user flow from onboarding to payment confirmation
 ![FoodApp UI Preview](Foodapp.png)
 
 ## 🔗 Prototype Link
-👉 https://l1nq.com/e5bqfqa
+👉 https://surl.li/offiru
 
 ## 📌 About
 This UI focuses on simple navigation, attractive food visuals, and a smooth checkout experience for users.
